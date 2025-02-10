@@ -1,0 +1,6 @@
+admin@example.com,admin123,admin
+user@example.com,user123,user
+jhames.martin@example.com,Jhames123,user
+jhamesediting@gmail.com,Jhames123,user
+hererojohn@gmail.com,herero123,admin
+carl@gmail.com,carl123,user

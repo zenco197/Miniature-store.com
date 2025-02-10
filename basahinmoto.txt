@@ -1,0 +1,21 @@
+Ipaste moto lahat sa Code mo Tapos nun Irun mo 
+Yung email is
+jhames.martin@example.com 
+Yung password is Jhames123
+
+Sa Admin namnan is
+admin@example.com 
+admin123
+
+pagkalogin mo
+makikita mo Naman yung mga Settings Jan pwede mo mabago at madelete
+
+Kayo na bahala Mag lagay ng Ibang details Eto yung pwede palitan lagyan ng page
+
+# - yung mga ganto
+Palitan mo ng about.html tapos lagyan mo ng details din
+
+Eto acc ko baka Kung need mo katanungan eto yung acc ko
+
+Jhames Martin
+https://www.facebook.com/profile.php?id=61569198136653

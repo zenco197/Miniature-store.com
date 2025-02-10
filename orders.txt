@@ -1,0 +1,17 @@
+Order Details:
+Name: Jhames martin 
+Email: jhames@gmail.com
+Address: Taga bowl
+Payment Method: cod
+Items:
+- Premium Ballpens (6x) - ₱150.00
+Total: ₱150
+-------------------------Order Details:
+Name: jhames.martin@example.com
+Email: jhamesbot@gmail.com
+Address: Jhahshs
+Payment Method: cod
+Items:
+- Scientific Calculator (7x) - ₱7,000.00
+Total: ₱7000
+-------------------------

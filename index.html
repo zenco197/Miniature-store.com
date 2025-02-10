@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Mini Shop</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+    <div class="form-container" id="loginForm">
+            <div class="logo-container">
+                <img src="logo au.jpg" alt="Arellano University Logo" class="university-logo">
+                <img src=https://scontent-atl3-1.xx.fbcdn.net/v/t1.15752-9/473186599_1338098487453665_4674824179831064987_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=amRIWGRfuwIQ7kNvgG30t98&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.xx&oh=03_Q7cD1gHuqmoIEdq8hsRT15UtXd0FJNTwIOVr33u3BsvwU2Fr9Q&oe=67B09F73 alt="Miniature Shop Logo" class="shop-logo">
+            </div>
+            <h2>Welcome Back!</h2>
+            <form id="loginForm">
+                <div class="input-group">
+                    <input type="email" id="email" required>
+                    <label>Email</label>
+                </div>
+                <div class="input-group">
+                    <input type="password" id="password" required>
+                    <label>Password</label>
+                </div>
+
+                <div class="form-options">
+                    <label class="checkbox-wrapper">
+                        <input type="checkbox" id="remember">
+                        <span class="custom-checkbox"></span>
+                        Remember me
+                    </label>
+                    <button type="button" class="forgot-btn" onclick="showForgotPassword()">Forgot Password?</button>
+                </div>            
+<p></p>
+                <button type="submit" class="submit-btn">Login</button>
+
+                <button type="submit" class="submit-btn">Register</button>
+            </form>
+            <p id="error-msg" style="color: red;"></p>
+        </div>
+    </div>
+    <script src="login.js"></script>
+</body>
+</html>
